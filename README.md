@@ -12,13 +12,13 @@ cd MBERA
 ## Single-step installation
 ```bash
 conda env create -f env_single.yml
-conda activate alpha_retro
+conda activate single_step
 ```
 
 ## Multi-step installation
 ```bash
 conda env create -f env_multi.yml
-conda activate single_step
+conda activate mbera
 ```
 
 ## Data and model preparation
