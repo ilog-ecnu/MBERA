@@ -51,7 +51,7 @@ The single-step model and reaction-type model, after being trained or downloaded
 
 Then the client can be used to search for the retrosynthesis of the given molecule:
 ```bash
-conda activate alpha_retro
+conda activate mbera
 python -u multi-step.py > multi-step.log 2>&1
 ```
 
